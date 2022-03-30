@@ -22,7 +22,8 @@ h1{
 
 .newton{
     height:350px ;
-    max-width: 900px;
+    max-width: 950px;
+    
     border-top: 5px solid #0974b3;
     background-color:#ffffff ;
     padding: 20px;
@@ -42,8 +43,8 @@ img{
 }
 .einstein{
     height:400px ;
-    max-width: 408.5px;
-    width:35% ;
+    max-width: 428px;
+    width:38% ;
     border-top: 5px solid #0974b3;
     background-color:#ffffff ;
     padding: 20px;
@@ -53,12 +54,18 @@ img{
 }
 .tesla{
     height:400px ;
-    max-width: 408.5px;
-    width:35% ;
+    max-width: 428px;
+    width:38% ;
     border-top: 5px solid #0974b3;
     background-color:#ffffff ;
     padding: 20px;
     margin: 20px;
     display: inline-block;
-    vertical-align: top
+    vertical-align: top;
+
+}
+.fusion{
+    max-width: 950px;
+    background-color: transparent;
+
 }
